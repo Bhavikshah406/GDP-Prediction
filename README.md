@@ -12,7 +12,7 @@ File GDP_and_Major_Industrial_Sectors_of_Economy_Dataset.xls contains contributi
 The methods used to Predict the Gdp are Arima and Holtwinters.
 Experiments with these number show that Arima model is ay better than predicting Gdp;
 
-Running the GdpPredict R file on the GDP_and_Major_Industrial_Sectors_of_Economy_Dataset.xls will lead to following conclusions.
+Running the GdpPrediction R file on the GDP_and_Major_Industrial_Sectors_of_Economy_Dataset.xls will lead to following conclusions.
 
 Conclusions
 1)On predicting GDP based on time series , we have found a correlation (both positive and negative) among various sectors contributing to the GDP.In short, as some sectors reduced contribution, other sectors have increased contribution towards GDP. 
